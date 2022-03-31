@@ -1,0 +1,5 @@
+C:\webApps\hipodromo\Ejercicio\DTO\bin\Debug\DTO.dll
+C:\webApps\hipodromo\Ejercicio\DTO\bin\Debug\DTO.pdb
+C:\webApps\hipodromo\Ejercicio\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\webApps\hipodromo\Ejercicio\DTO\obj\Debug\DTO.dll
+C:\webApps\hipodromo\Ejercicio\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,4 @@
+C:\webApps\hipodromo\Ejercicio\Modelos\bin\Debug\Modelos.dll
+C:\webApps\hipodromo\Ejercicio\Modelos\bin\Debug\Modelos.pdb
+C:\webApps\hipodromo\Ejercicio\Modelos\obj\Debug\Modelos.dll
+C:\webApps\hipodromo\Ejercicio\Modelos\obj\Debug\Modelos.pdb

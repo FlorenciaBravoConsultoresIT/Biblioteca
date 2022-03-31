@@ -1,0 +1,8 @@
+C:\webApps\hipodromo\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\webApps\hipodromo\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe
+C:\webApps\hipodromo\Ejercicio\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\webApps\hipodromo\Ejercicio\Ejercicio\bin\Debug\Modelos.dll
+C:\webApps\hipodromo\Ejercicio\Ejercicio\bin\Debug\Modelos.pdb
+C:\webApps\hipodromo\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csprojResolveAssemblyReference.cache
+C:\webApps\hipodromo\Ejercicio\Ejercicio\obj\Debug\Ejercicio.exe
+C:\webApps\hipodromo\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
