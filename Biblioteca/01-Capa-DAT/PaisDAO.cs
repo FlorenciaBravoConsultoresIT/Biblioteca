@@ -28,7 +28,7 @@ namespace _01_Capa_DAT
                     objSqlCommand.CommandType = CommandType.StoredProcedure;
                     //tengo que modificar aca
                     objSqlCommand.CommandText = "SP_Pais";
-                    objSqlCommand.CommandTimeout = 30;
+             //       objSqlCommand.CommandTimeout = 30;
                     objSqlCommand.Connection = objSqlConnection;
 
                     System.Data.DataSet respuestaDS = new DataSet();

@@ -12,3 +12,17 @@ C:\webApps\hipodromo\Ejercicio\02-Negocio\bin\Debug\System.ValueTuple.xml
 C:\webApps\hipodromo\Ejercicio\02-Negocio\obj\Debug\02-Negocio.csprojResolveAssemblyReference.cache
 C:\webApps\hipodromo\Ejercicio\02-Negocio\obj\Debug\02-Negocio.dll
 C:\webApps\hipodromo\Ejercicio\02-Negocio\obj\Debug\02-Negocio.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\bin\Debug\02-Negocio.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\bin\Debug\02-Negocio.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\bin\Debug\01-Datos.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\bin\Debug\DTO.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\bin\Debug\AutoMapper.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\bin\Debug\01-Datos.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\bin\Debug\DTO.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\bin\Debug\AutoMapper.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\bin\Debug\AutoMapper.xml
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\obj\Debug\02-Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\obj\Debug\02-Negocio.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\ramiro\02-Negocio\obj\Debug\02-Negocio.pdb

@@ -12,3 +12,17 @@ C:\Users\hilario\Documents\Visual Studio 2015\Projects\Biblioteca\01-Capa-DAT\bi
 C:\Users\hilario\Documents\Visual Studio 2015\Projects\Biblioteca\01-Capa-DAT\obj\Debug\01-Capa-DAT.csprojResolveAssemblyReference.cache
 C:\Users\hilario\Documents\Visual Studio 2015\Projects\Biblioteca\01-Capa-DAT\obj\Debug\01-Capa-DAT.dll
 C:\Users\hilario\Documents\Visual Studio 2015\Projects\Biblioteca\01-Capa-DAT\obj\Debug\01-Capa-DAT.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\bin\Debug\01-Capa-DAT.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\bin\Debug\01-Capa-DAT.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\bin\Debug\AutoMapper.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\bin\Debug\DTO.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\bin\Debug\DTO.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\bin\Debug\AutoMapper.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\bin\Debug\AutoMapper.xml
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\obj\Debug\01-Capa-DAT.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\obj\Debug\01-Capa-DAT.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\01-Capa-DAT\obj\Debug\01-Capa-DAT.pdb

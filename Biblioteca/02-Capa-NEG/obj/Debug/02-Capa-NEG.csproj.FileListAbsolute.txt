@@ -2,3 +2,17 @@ C:\Users\hilario\Documents\Visual Studio 2015\Projects\Biblioteca\02-Capa-NEG\bi
 C:\Users\hilario\Documents\Visual Studio 2015\Projects\Biblioteca\02-Capa-NEG\bin\Debug\02-Capa-NEG.pdb
 C:\Users\hilario\Documents\Visual Studio 2015\Projects\Biblioteca\02-Capa-NEG\obj\Debug\02-Capa-NEG.dll
 C:\Users\hilario\Documents\Visual Studio 2015\Projects\Biblioteca\02-Capa-NEG\obj\Debug\02-Capa-NEG.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\bin\Debug\02-Capa-NEG.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\bin\Debug\02-Capa-NEG.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\bin\Debug\01-Capa-DAT.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\bin\Debug\DTO.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\bin\Debug\AutoMapper.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\bin\Debug\01-Capa-DAT.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\bin\Debug\DTO.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\bin\Debug\AutoMapper.pdb
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\bin\Debug\AutoMapper.xml
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\obj\Debug\02-Capa-NEG.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\obj\Debug\02-Capa-NEG.dll
+C:\Users\Administrador\Documents\GitHub\Biblioteca\Biblioteca\02-Capa-NEG\obj\Debug\02-Capa-NEG.pdb
