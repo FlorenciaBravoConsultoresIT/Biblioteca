@@ -1,0 +1,7 @@
+C:\webApps\hipodromo\Ejercicio\01-Datos\bin\Release\01-Datos.dll
+C:\webApps\hipodromo\Ejercicio\01-Datos\bin\Release\01-Datos.pdb
+C:\webApps\hipodromo\Ejercicio\01-Datos\bin\Release\DTO.dll
+C:\webApps\hipodromo\Ejercicio\01-Datos\bin\Release\DTO.pdb
+C:\webApps\hipodromo\Ejercicio\01-Datos\obj\Release\01-Datos.csprojResolveAssemblyReference.cache
+C:\webApps\hipodromo\Ejercicio\01-Datos\obj\Release\01-Datos.dll
+C:\webApps\hipodromo\Ejercicio\01-Datos\obj\Release\01-Datos.pdb

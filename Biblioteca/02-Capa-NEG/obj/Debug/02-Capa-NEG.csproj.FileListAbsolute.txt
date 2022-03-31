@@ -1,0 +1,4 @@
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Biblioteca\02-Capa-NEG\bin\Debug\02-Capa-NEG.dll
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Biblioteca\02-Capa-NEG\bin\Debug\02-Capa-NEG.pdb
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Biblioteca\02-Capa-NEG\obj\Debug\02-Capa-NEG.dll
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Biblioteca\02-Capa-NEG\obj\Debug\02-Capa-NEG.pdb

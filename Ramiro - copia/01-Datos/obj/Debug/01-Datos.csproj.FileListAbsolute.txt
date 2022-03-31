@@ -1,0 +1,36 @@
+C:\webApps\hipodromo\Ejercicio\01-Datos\bin\Debug\01-Datos.dll
+C:\webApps\hipodromo\Ejercicio\01-Datos\bin\Debug\01-Datos.pdb
+C:\webApps\hipodromo\Ejercicio\01-Datos\bin\Debug\AutoMapper.dll
+C:\webApps\hipodromo\Ejercicio\01-Datos\bin\Debug\DTO.dll
+C:\webApps\hipodromo\Ejercicio\01-Datos\bin\Debug\System.ValueTuple.dll
+C:\webApps\hipodromo\Ejercicio\01-Datos\bin\Debug\DTO.pdb
+C:\webApps\hipodromo\Ejercicio\01-Datos\bin\Debug\AutoMapper.pdb
+C:\webApps\hipodromo\Ejercicio\01-Datos\bin\Debug\AutoMapper.xml
+C:\webApps\hipodromo\Ejercicio\01-Datos\bin\Debug\System.ValueTuple.xml
+C:\webApps\hipodromo\Ejercicio\01-Datos\obj\Debug\01-Datos.csprojResolveAssemblyReference.cache
+C:\webApps\hipodromo\Ejercicio\01-Datos\obj\Debug\01-Datos.dll
+C:\webApps\hipodromo\Ejercicio\01-Datos\obj\Debug\01-Datos.pdb
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro\01-Datos\bin\Debug\01-Datos.dll
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro\01-Datos\bin\Debug\01-Datos.pdb
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro\01-Datos\bin\Debug\AutoMapper.dll
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro\01-Datos\bin\Debug\DTO.dll
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro\01-Datos\bin\Debug\System.ValueTuple.dll
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro\01-Datos\bin\Debug\DTO.pdb
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro\01-Datos\bin\Debug\AutoMapper.pdb
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro\01-Datos\bin\Debug\AutoMapper.xml
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro\01-Datos\bin\Debug\System.ValueTuple.xml
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro\01-Datos\obj\Debug\01-Datos.csprojResolveAssemblyReference.cache
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro\01-Datos\obj\Debug\01-Datos.dll
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro\01-Datos\obj\Debug\01-Datos.pdb
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro - copia\01-Datos\bin\Debug\01-Datos.dll
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro - copia\01-Datos\bin\Debug\01-Datos.pdb
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro - copia\01-Datos\bin\Debug\AutoMapper.dll
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro - copia\01-Datos\bin\Debug\DTO.dll
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro - copia\01-Datos\bin\Debug\System.ValueTuple.dll
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro - copia\01-Datos\bin\Debug\DTO.pdb
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro - copia\01-Datos\bin\Debug\AutoMapper.pdb
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro - copia\01-Datos\bin\Debug\AutoMapper.xml
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro - copia\01-Datos\bin\Debug\System.ValueTuple.xml
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro - copia\01-Datos\obj\Debug\01-Datos.csprojResolveAssemblyReference.cache
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro - copia\01-Datos\obj\Debug\01-Datos.dll
+C:\Users\hilario\Documents\Visual Studio 2015\Projects\Ramiro - copia\01-Datos\obj\Debug\01-Datos.pdb
